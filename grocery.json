@@ -1,0 +1,144 @@
+{
+    "grocerylist":[
+        {
+            "SlNo": 1, 
+            "item": "Bean",
+            "quantity":500,
+            "department":"Vegetables",
+            "unit":"g",
+            "notes":"Veg-Mart"
+        },
+        {
+            "SlNo": "2", 
+            "item": "Onion",
+            "quantity":"1",
+            "department":"Vegetables",
+            "unit":"kg",
+            "notes":"Veg-Mart"
+        },
+        {
+            "SlNo": "3", 
+            "item": "Tomato",
+            "quantity":"500",
+            "department":"Vegetables",
+            "unit":"g",
+            "notes":"Veg-Mart"
+        },
+        {
+            "SlNo": "4", 
+            "item": "Milk",
+            "quantity":"2",
+            "department":"Dairy",
+            "unit":"pck",
+            "notes":"Milma"
+        },
+        {
+            "SlNo": "5", 
+            "item": "Yogurt",
+            "quantity":"500",
+            "department":"Dairy",
+            "unit":"g",
+            "notes":"Milma"
+        },
+        {
+            "SlNo": "6", 
+            "item": "Rice",
+            "quantity":"5",
+            "department":"Grocery",
+            "unit":"kg",
+            "notes": "7Star"
+        },
+        {
+            "SlNo": "7", 
+            "item": "Tea Dust",
+            "quantity":"500",
+            "department":"AVT",
+            "unit":"g",
+            "notes":"Grocery"
+        },
+        {
+            "SlNo": "8", 
+            "item": "Coconut Oil",
+            "quantity":"1",
+            "department":"Grocery",
+            "unit":"L",
+            "notes":"Kera"
+        },
+        {
+            "SlNo": "9", 
+            "item": "Sugar",
+            "quantity":"1",
+            "department":"Grocery",
+            "unit":"kg",
+            "notes":"Paary's Amrit Brown-sugar"
+        },
+        {
+            "SlNo": "10", 
+            "item": "Dishwasher",
+            "quantity":"3",
+            "department":"Cleaning Pdt",
+            "unit":"num",
+            "notes":"Vim"
+        },
+        {
+            "SlNo": "11", 
+            "item": "Soap",
+            "quantity":"3",
+            "department":"Cleaning Pdt",
+            "unit" : "num",
+            "notes":"Pears"
+        },
+        {
+            "SlNo": "12", 
+            "item": "Sanitizer",
+            "quantity":"3",
+            "department":"Cleaning Pdt",
+            "unit":"num",
+            "notes":"Detol"
+        },
+        {
+            "SlNo": "13", 
+            "item": "TissuePaper",
+            "quantity":"3",
+            "department":"Cleaning Pdt",
+            "unit":"pck",
+            "notes":"Good quality"
+        },
+        {
+            "SlNo": "14", 
+            "item": "FaceMask",
+            "quantity":"2",
+            "department":"Medicines",
+            "unit":"num",
+            "notes":"N95"
+        }
+        // {
+        //     "SlNo": "15", 
+        //     "item": "Gloves",
+        //     "quantity":"2",
+        //     "department":"Medicines",
+        //     "unit":"num",
+        //     "notes":"TWING Disposable Latex Gloves"
+        // }
+        
+    ]
+}
+        
+       
+    
+
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+        
